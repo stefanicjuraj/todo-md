@@ -9,7 +9,7 @@ Local, simple, and fast command-line todo application with export to Markdown.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/stefanicjuraj/todo
+git clone https://github.com/stefanicjuraj/todo-md-md
 ```
 
 2. Build the binary:
